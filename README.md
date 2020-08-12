@@ -22,5 +22,7 @@ For installing mne and sklearn, go to anaconda cmd prompt and type 'pip install 
 
 
 
+
 Cheers,
+
 Pieter
