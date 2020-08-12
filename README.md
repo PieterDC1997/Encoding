@@ -11,7 +11,7 @@ Holdgraf set up some features, I added some more. In total, it contains 6 featur
 For all of these, I created TRF's and computed the expected ECoG signal via CV. This expected signal is then compared to the actual ECoG signal.
 
 
-Features are stored in map 'features'. The code is ofc in map Code and raw_data in raw_data. Make sure you adapt the paths to your paths.
+Features are stored in map 'features'. The code is ofc in map Code and the raw data in raw_data. Make sure you adapt the paths to your paths.
 
 
 Finally, it is VERY important that you copy and paste the map 'modelingtools' to your python installation files, directory 'site-packages'!!! It is then treated as
