@@ -1,7 +1,7 @@
 # Encoding
 
 
-This is a tutorial to encoding models based on Chris Holdgraf's code: https://github.com/choldgraf/paper-encoding_decoding_electrophysiology/blob/master/README.md
+This is a tutorial in encoding models based on Chris Holdgraf's code: https://github.com/choldgraf/paper-encoding_decoding_electrophysiology/blob/master/README.md
 It contains raw ECoG data, with 29 example sentences. The raw wav files and TIMIT timings are added to raw_data. Code was adapted when necessary (new versions of sklearn e.g.)
 
 
