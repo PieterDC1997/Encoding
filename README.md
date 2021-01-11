@@ -19,8 +19,6 @@ Finally, it is VERY important that you copy and paste the map 'modelingtools' to
 another module we import.
 
 
-For installing mne and sklearn, go to anaconda cmd prompt and type 'pip install mne' and 'pip install scikit-learn'
-
 
 
 
